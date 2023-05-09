@@ -1,0 +1,8 @@
+﻿  Main.cpp
+D:\Шаг\Exam\Gallows\Gallows\Main.cpp(42,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Шаг\Exam\Gallows\Gallows\Main.cpp(64,31): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Шаг\Exam\Gallows\Gallows\Main.cpp(69,35): warning C4018: <=: несоответствие типов со знаком и без знака
+D:\Шаг\Exam\Gallows\Gallows\Main.cpp(206,31): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Шаг\Exam\Gallows\Gallows\Main.cpp(219,31): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Шаг\Exam\Gallows\Gallows\Main.cpp(239,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Gallows.vcxproj -> D:\Шаг\Exam\Gallows\Debug\Gallows.exe
